@@ -1,0 +1,19 @@
+.Nome dos participantes: Rhuan Pablo de carvalho, Estéfane Lima Ferreira, João Pedro dos Santos.
+
+.Nome do Jogo: Neblina.
+
+.Historia do jogo:A historia do jogo conta a jornada do protagonista, que apos perder o emprego decide se aventurar no mundo digital para assim ter uma nova chance de vida atravez das oportunidades consedidas pela internete,porem logo apos adentrar o mundo digital o protagonista descobrira o grande numero de noticias e propostas enganosas que estão na internete,fasendo assim com que o protagonista decida se aventurar na internete; tentando diferenciar noticias falsas de verdadeiras enquanto sua vida muda conforme as decisões tomadas,podendo ser tanto para mehor quanto para pior.
+
+.Tipo de jogo:O jogo sera do tipo Quiz.
+
+.Game play:Atravez de perguntas do tipo verdadeiro ou falso o protagonista do jogo tera mudansas significativas de vida,podendo ser tanto para melhor quanto para pior dependendo da situação.
+ 
+Ao fim do jogo o protagonista pode alcançar trez tipos de finais distintos sendo eles:
+
+.Vitoria Absoluta:(O protagonis atingil a plenitude em todos os ambitos da vida atravez de uma grande quantidade de acertos).
+
+.Derrota Absoluta:(O protagonis atingil o fracasso em todos os ambitos da vida atravez de uma grande quantidade de erros).
+
+.Crecimento pessoal:(O protagonista atingil a estabilidade atravez de uma quantidade semelhante de erros e acertos).
+
+.OBS:Cada um desse possiveis finais se desenrrolara atravez do numero de acerto ou erro cometidos.
